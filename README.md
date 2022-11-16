@@ -1,4 +1,5 @@
-# Cat & Light Project
+# 
+Switch-ON-and-OFF Project
 
 ## Observations
 
